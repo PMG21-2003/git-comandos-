@@ -18,6 +18,9 @@ cd minha-pasta/
 # Acessando o repositorio
 cd <path-repositorio>
 ```
+## Setup    
+1 - Baixar VSCode
+2 - Baixar o Git
 
 ## Minha Empressa 
 
