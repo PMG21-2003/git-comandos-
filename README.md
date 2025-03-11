@@ -2,7 +2,6 @@
 
  1 Passo a Passo:
 
-
 ```bash
 # Indo até o Disco C 
 cd c/
@@ -22,3 +21,7 @@ cd <path-repositorio>
 ## Setup    
 1 - Baixar VSCode
 2 - Baixar o Git
+
+## Minha Empressa 
+
+Autor : minha empressa 
