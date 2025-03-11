@@ -2,7 +2,6 @@
 
  1 Passo a Passo:
 
-
 ```bash
 # Indo até o Disco C 
 cd c/
@@ -18,7 +17,8 @@ cd minha-pasta/
 
 # Acessando o repositorio
 cd <path-repositorio>
-
-
-
 ```
+
+## Minha Empressa 
+
+Autor : minha empressa 
